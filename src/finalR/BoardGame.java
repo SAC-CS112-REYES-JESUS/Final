@@ -26,7 +26,7 @@ public class BoardGame {
 	private ImageIcon cross;
 	
 	public BoardGame(){	
-		
+		frame();
 	}
 	
 	public void frame()

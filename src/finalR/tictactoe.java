@@ -8,7 +8,7 @@ public class tictactoe {
 		
 		BoardGame b = new BoardGame();
 		
-		b.frame();
+		
 		b.createPanel();
 		
 		
